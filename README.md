@@ -8,15 +8,15 @@ This notebook demonstrates how **Support Vector Machines (SVMs)** use the **kern
 
 ## 📚 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Key Concepts](#key-concepts)
-3. [Kernel Functions Explored](#kernel-functions-explored)
-4. [Implementation Details](#implementation-details)
-5. [Visualizations](#visualizations)
-6. [Results and Discussion](#results-and-discussion)
-7. [Installation and Usage](#installation-and-usage)
-8. [Project Structure](#project-structure)
-9. [License](#license)
+1. [Introduction](#-introduction)
+2. [Key Concepts](#-key-concepts)
+3. [Kernel Functions Explored](#-kernel-functions-explored)
+4. [Implementation Details](#-implementation-details)
+5. [Visualizations](#-visualizations)
+6. [Results and Discussion](#-results-and-discussion)
+7. [Installation and Usage](#-installation-and-usage)
+8. [Project Structure](#-project-structure)
+9. [License](#-license)
 
 ---
 
