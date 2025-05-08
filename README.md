@@ -10,12 +10,12 @@ This notebook demonstrates how **Support Vector Machines (SVMs)** use the **kern
 
 1. [Introduction](#-introduction)
 2. [Key Concepts](#-key-concepts)
-3. [Kernel Functions Explored](#-kernel-functions-explored)
-4. [Implementation Details](#-implementation-details)
+3. [Kernel Functions Explored](#%EF%B8%8F-kernel-functions-explored)
+4. [Implementation Details](#%EF%B8%8F-implementation-details)
 5. [Visualizations](#-visualizations)
 6. [Results and Discussion](#-results-and-discussion)
 7. [Installation and Usage](#-installation-and-usage)
-8. [Project Structure](#-project-structure)
+8. [Project Structure](#%EF%B8%8F-project-structure)
 9. [License](#-license)
 
 ---
